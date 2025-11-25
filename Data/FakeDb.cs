@@ -19,7 +19,7 @@ public static class FakeDb
         Data.Add(item);
     }
 
-    public static void ChageCompletionStatus(TodoItem item)
+    public static void ChangeCompletionStatus(TodoItem item)
     {
         item.IsComplete = !item.IsComplete;
     }

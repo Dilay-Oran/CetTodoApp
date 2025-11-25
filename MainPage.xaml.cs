@@ -1,4 +1,6 @@
 ﻿using CetTodoApp.Data;
+using Microsoft.Maui.Controls;
+using System;
 
 namespace CetTodoApp;
 
@@ -13,8 +15,7 @@ public partial class MainPage : ContentPage
         FakeDb.AddToDo("Test2" ,DateTime.Now.AddDays(1));
         FakeDb.AddToDo("Test3" ,DateTime.Now);
         RefreshListView();
-        ;
-
+        CheckInput();
 
     }
 
@@ -38,8 +39,32 @@ public partial class MainPage : ContentPage
     private void TasksListView_OnItemSelected(object? sender, SelectedItemChangedEventArgs e)
     {
         var item = e.SelectedItem as TodoItem;
-       FakeDb.ChageCompletionStatus(item);
+       FakeDb.ChangeCompletionStatus(item);
        RefreshListView();
        
     }
+    private void CheckInput()
+    {
+        if (Title.Text !="" && DueDate.Date >= DateTime.Now.Date)
+        {
+            AddButton.IsEnabled = true;
+        }
+        else
+        {
+            AddButton.IsEnabled = false;
+        }
+    }
+
+    private void TextChanged(object sender, TextChangedEventArgs e)
+    {
+      CheckInput();
+
+    }
+
+    private void DateChanged(object sender, DateChangedEventArgs e)
+    {
+        CheckInput();
+    }
+
+
 }
