@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\D\u0130LAY\\Desktop\\CetTodoApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D9E2694F-040D-4E82-A05F-E0100855EA89}|CetTodoApp.csproj|c:\\users\\d\u0130lay\\desktop\\cettodoapp\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D9E2694F-040D-4E82-A05F-E0100855EA89}|CetTodoApp.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D9E2694F-040D-4E82-A05F-E0100855EA89}|CetTodoApp.csproj|c:\\users\\d\u0130lay\\desktop\\cettodoapp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D9E2694F-040D-4E82-A05F-E0100855EA89}|CetTodoApp.csproj|solutionrelative:mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9E2694F-040D-4E82-A05F-E0100855EA89}|CetTodoApp.csproj|c:\\users\\d\u0130lay\\desktop\\cettodoapp\\data\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9E2694F-040D-4E82-A05F-E0100855EA89}|CetTodoApp.csproj|solutionrelative:data\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9E2694F-040D-4E82-A05F-E0100855EA89}|CetTodoApp.csproj|c:\\users\\d\u0130lay\\desktop\\cettodoapp\\data\\tododb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9E2694F-040D-4E82-A05F-E0100855EA89}|CetTodoApp.csproj|solutionrelative:data\\tododb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D9E2694F-040D-4E82-A05F-E0100855EA89}|CetTodoApp.csproj|c:\\users\\d\u0130lay\\desktop\\cettodoapp\\data\\fakedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,16 +27,8 @@
       "RelativeMoniker": "D:0:0:{D9E2694F-040D-4E82-A05F-E0100855EA89}|CetTodoApp.csproj|solutionrelative:converters\\redoverdue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9E2694F-040D-4E82-A05F-E0100855EA89}|CetTodoApp.csproj|c:\\users\\d\u0130lay\\desktop\\cettodoapp\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{D9E2694F-040D-4E82-A05F-E0100855EA89}|CetTodoApp.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D9E2694F-040D-4E82-A05F-E0100855EA89}|CetTodoApp.csproj|c:\\users\\d\u0130lay\\desktop\\cettodoapp\\converters\\strikethrough.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D9E2694F-040D-4E82-A05F-E0100855EA89}|CetTodoApp.csproj|solutionrelative:converters\\strikethrough.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9E2694F-040D-4E82-A05F-E0100855EA89}|CetTodoApp.csproj|c:\\users\\d\u0130lay\\desktop\\cettodoapp\\data\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9E2694F-040D-4E82-A05F-E0100855EA89}|CetTodoApp.csproj|solutionrelative:data\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,11 +38,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
+              "Title": "ToDoDB.cs",
+              "DocumentMoniker": "C:\\Users\\D\u0130LAY\\Desktop\\CetTodoApp\\Data\\ToDoDB.cs",
+              "RelativeDocumentMoniker": "Data\\ToDoDB.cs",
+              "ToolTip": "C:\\Users\\D\u0130LAY\\Desktop\\CetTodoApp\\Data\\ToDoDB.cs",
+              "RelativeToolTip": "Data\\ToDoDB.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T10:47:41.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "StrikeThrough.cs",
               "DocumentMoniker": "C:\\Users\\D\u0130LAY\\Desktop\\CetTodoApp\\Converters\\StrikeThrough.cs",
               "RelativeDocumentMoniker": "Converters\\StrikeThrough.cs",
@@ -46,12 +63,11 @@
               "RelativeToolTip": "Converters\\StrikeThrough.cs",
               "ViewState": "AgIAABwAAAAAAAAAAAAQwBMAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T19:06:40.434Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-25T19:06:40.434Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "RedOverDue.cs",
               "DocumentMoniker": "C:\\Users\\D\u0130LAY\\Desktop\\CetTodoApp\\Converters\\RedOverDue.cs",
               "RelativeDocumentMoniker": "Converters\\RedOverDue.cs",
@@ -59,38 +75,37 @@
               "RelativeToolTip": "Converters\\RedOverDue.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAxwA4AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T18:41:19.086Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-25T18:41:19.086Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "TodoItem.cs",
               "DocumentMoniker": "C:\\Users\\D\u0130LAY\\Desktop\\CetTodoApp\\Data\\TodoItem.cs",
               "RelativeDocumentMoniker": "Data\\TodoItem.cs",
               "ToolTip": "C:\\Users\\D\u0130LAY\\Desktop\\CetTodoApp\\Data\\TodoItem.cs",
               "RelativeToolTip": "Data\\TodoItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-25T16:31:03.409Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\D\u0130LAY\\Desktop\\CetTodoApp\\MainPage.xaml.cs",
               "RelativeDocumentMoniker": "MainPage.xaml.cs",
               "ToolTip": "C:\\Users\\D\u0130LAY\\Desktop\\CetTodoApp\\MainPage.xaml.cs",
               "RelativeToolTip": "MainPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwBgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-25T16:21:48.953Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "FakeDb.cs",
               "DocumentMoniker": "C:\\Users\\D\u0130LAY\\Desktop\\CetTodoApp\\Data\\FakeDb.cs",
               "RelativeDocumentMoniker": "Data\\FakeDb.cs",
@@ -98,18 +113,17 @@
               "RelativeToolTip": "Data\\FakeDb.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T16:07:30.158Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-25T16:07:30.158Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "MainPage.xaml",
               "DocumentMoniker": "C:\\Users\\D\u0130LAY\\Desktop\\CetTodoApp\\MainPage.xaml",
               "RelativeDocumentMoniker": "MainPage.xaml",
               "ToolTip": "C:\\Users\\D\u0130LAY\\Desktop\\CetTodoApp\\MainPage.xaml",
               "RelativeToolTip": "MainPage.xaml",
-              "ViewState": "AgIAACMAAAAAAAAAAAAAwEEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-11-25T12:54:12.301Z",
               "EditorCaption": ""
